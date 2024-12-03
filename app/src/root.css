@@ -1,0 +1,10 @@
+:root {
+  --background-color: #f4efe6; /* Soft beige */
+  --primary-color: #8b5a2b; /* Earthy brown */
+  --accent-color: #d4af37; /* Gold */
+  --text-color: #333; /* Neutral dark for text */
+  --hover-color: #b07533; /* Warm brown for hover */
+  --upper-bg-color: #e8e0d4; /* Light earthy tone */
+  --lower-bg-color: #d4c4b8; /* Slightly darker contrast */
+  --link-spacing: 1rem; /* Spacing between links */
+}
